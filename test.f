@@ -58,6 +58,7 @@ C
      1                A(100)     ,B(100)     ,AH(100)    ,BH(100)    ,
      2                XH(200)    ,CX(200)    ,CY(200)
       DOUBLE COMPLEX         CX         ,CY
+C init ND(1),ND(2)...ND(7) with "120,54,49,32,4,3,2" indivisually!
       DATA ND(1),ND(2),ND(3),ND(4),ND(5),ND(6),ND(7)/120,54,49,32,4,3,2/
       SQRT2 = SQRT(2.0D0)
       NNS = 7
